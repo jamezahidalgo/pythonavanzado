@@ -13,3 +13,5 @@ API reference — seaborn 0.11.1 documentation
 
 Documentación para gráficas:
 python-graph-gallery.com
+
+Enlace a infografía de AZURE respecto de los algotirmos de Machine Learning
